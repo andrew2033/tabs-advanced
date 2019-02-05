@@ -1,0 +1,21 @@
+.tab__list {
+  width: 400px;
+  height: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tab__item {
+  width: 80px;
+  background-color: #fff;
+  list-style: none;
+  font-size: 25px;
+  border: 1px solid gray; 
+  text-align: center;
+  margin: 1px;
+}
+
+.tab__snippet {
+  font-size: 25px;
+  margin: 50px;
+}
